@@ -7,3 +7,5 @@
 <img width="1266" alt="Screen Shot 2021-07-20 at 16 27 26" src="https://user-images.githubusercontent.com/31868290/126403157-b874b00c-863b-4be7-8bf5-6213dd67c813.png">
 
 2. `mkvirtualenv <name>` 
+
+<img width="788" alt="Screen Shot 2021-07-20 at 16 54 11" src="https://user-images.githubusercontent.com/31868290/126405415-bfab40c5-0a36-43dc-862d-0e2b8224e004.png">
